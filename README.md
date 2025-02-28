@@ -18,8 +18,6 @@ Atualmente, estou estudando e praticando as seguintes tecnologias:
 ## 📌 Projetos e Aprendizado
 Como ainda estou construindo meu portfólio, vou compartilhar projetos pessoais, trabalhados da universidade e estudos por aqui:
 
-   - aqui tu coloca os links e uma breve descrição de todos os repositorios que tu vem atuando na feevale
-
 ## 🤝 Estou em busca de estágio!
 Se você está procurando um estagiário dedicado e motivado para integrar sua equipe, adoraria bater um papo!
 
