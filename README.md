@@ -17,6 +17,8 @@ Atualmente, estou estudando e praticando as seguintes tecnologias:
 
 ## 📌 Projetos e Aprendizado
 Como ainda estou construindo meu portfólio, vou compartilhar projetos pessoais, trabalhados da universidade e estudos por aqui:
+https://github.com/Oguibecker/Match-Tree-Project.git
+Projeto feito para desenvolver as mecânicas utilizadas no jogo Candy Crush.
 
 ## 🤝 Estou em busca de estágio!
 Se você está procurando um estagiário dedicado e motivado para integrar sua equipe, adoraria bater um papo!
