@@ -3,7 +3,7 @@
 Sou um estudante e desenvolvedor júnior apaixonado por tecnologia e programação. Atualmente, estou buscando uma oportunidade de estágio para aprimorar minhas habilidades e contribuir com projetos reais.
 
 ## 💻 Sobre mim
-- 🎓 Estudante de Jogos Digitais, Feevale, 5º semestre.
+- 🎓 Estudante de Jogos Digitais, Feevale, 6º semestre.
 - 💡 Interessado em desenvolvimento backend, C#, Jogos e Mobile
 - 🔍 Sempre buscando aprender novas tecnologias e boas práticas de programação
 - 🎯 Objetivo: Me tornar um desenvolvedor full stack e criar soluções que impactem positivamente as pessoas e empresas
